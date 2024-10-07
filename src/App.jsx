@@ -1,4 +1,5 @@
 import Navbar from "./components/navbar/Navbar"
+import HomePage from "./routes/homePage/homePage"
 import "./layout.scss"
 function App() {
   return (
@@ -8,7 +9,7 @@ function App() {
       </div>
 
       <div className="content">
-        <homePage />
+        <HomePage />
       </div>
     </div>
   )

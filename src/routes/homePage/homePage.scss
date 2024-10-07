@@ -4,15 +4,24 @@
 
     .textContainer {
         flex: 3;
+
+        .wrapper{
+            padding-right: 100px;
+        }
     }
 
     .imgContainer {
         flex: 2;
         background-color: #fcf5f3;
+        position: relative;
+        display: flex;
+        align-items: center;
     }
     
     img{
         width: 100%;
+        position: relative;
+        right: 0;
 
     }
 }
