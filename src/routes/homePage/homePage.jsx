@@ -13,6 +13,20 @@ function HomePage() {
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
           </p>
           <SearchBar />
+          <div className="boxes">
+            <div className="box">
+              <h1>16+</h1>
+              <h2>Years of Experience</h2>
+            </div>
+            <div className="box">
+              <h1>200</h1>
+              <h2>Awards Gained</h2>
+            </div>
+            <div className="box">
+              <h1>2000+</h1>
+              <h2>Properties Ready</h2>
+            </div>
+          </div>
         </div>
       </div>
       <div className="imgContainer">
