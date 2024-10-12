@@ -3,6 +3,9 @@
 # SwEstate
 
 SwEstate is a MERN stack web application designed for real estate listings. This responsive platform allows users to sign up, log in, and communicate with each other in real time. With features such as an image gallery for property listings and integrated maps, SwEstate enhances the property search experience.
+### Visual Overview
+![Screenshot 2024-10-12 160343](https://github.com/user-attachments/assets/7a9f35ee-6dde-42ca-9e56-df3d0d7e54e6)
+
 
 ## Features
 
